@@ -1,1 +1,0 @@
-import{u as o}from"./index.dc389c35.js";import{a as t}from"./provider.3613600f.js";import"./index.25b2480c.js";import"./index.b538c3c4.js";import"./wallet.02b65d63.js";import"./pinia.60a6acff.js";import"./error.9b3ee06f.js";import"./wallet.5c35fb8e.js";const l={priority:9998,install(){o("connected",!1).value&&t()}};export{l as wallet};
